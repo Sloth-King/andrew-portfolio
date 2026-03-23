@@ -45,7 +45,7 @@
     ]
   },
 
-    "project3": {
+  "project3": {
     "title": "Fisheye Engine",
     "subtitle": "Game engine \"from scratch\" in C++",
     "video": "https://youtu.be/neiFw3aLmls",
@@ -62,7 +62,7 @@
     ]
   },
 
-    "project4": {
+  "project4": {
     "title": "MAIge Academy",
     "subtitle": "Advanced multi-agent system with strategies in Godot",
     "video": "https://youtu.be/74uu5qPg5co",
@@ -84,7 +84,7 @@
     ]
   },
 
-    "project5": {
+  "project5": {
     "title": "AIgricultor",
     "subtitle": "Simple multi agent system in Godot",
     "video": "https://youtu.be/c0CstpRKJa4",
@@ -106,7 +106,7 @@
     ]
   },
 
-    "project6": {
+  "project6": {
     "title": "HarMONEY",
     "subtitle": "Automatic or manual color harmonisation software",
     "video": "https://youtu.be/qKjq0s50vBc",
@@ -131,7 +131,7 @@
     ]
   },
 
-    "project7": {
+  "project7": {
     "title": "Raytracer",
     "subtitle": "Basic Raytracer made in C++",
     "video": "assets/project-details/raytrace/ptitfoot.png",
@@ -154,7 +154,7 @@
     ]
   },
 
-    "project8": {
+  "project8": {
     "title": "Nokia Jam 6 : The Adventures of Trognon",
     "subtitle": "2D Platformer",
     "video": "https://youtu.be/rghc6frLzWc",
@@ -178,7 +178,7 @@
     ]
   },
 
-    "project9": {
+  "project9": {
     "title": "Imagine Jam 2025 : CrashLands",
     "subtitle": "Short 2D RPG",
     "video": "https://youtu.be/c1RdtOEWiqY",
@@ -191,6 +191,91 @@
     "links": [
       "https://thedrewman.itch.io/crashlands",
       "https://github.com/Sloth-King/ImagineJam24"
+    ],
+    "images": [
+      "assets/project-details/crashlands/thumbnail.jpg",
+      "assets/project-details/crashlands/chillin.jpg",
+      "assets/project-details/crashlands/fight.jpg"
+    ]
+  },
+
+  "project10": {
+    "title": "Approximation of physical processes for the artistic modeling of terrains",
+    "subtitle": "3D R&D project",
+    "video": "https://youtu.be/c1RdtOEWiqY",
+    "description": "A two person university project, the idea was to choose a 3D topic, do some research and implementing our findings using C++ and OpenGL, in other words this was a relatively free R&D project. As both of us are heavily passionate about video games and terrain generations and simulations, a real time approximation of physical processes of a terrain was one we really wanted to do. Our terrains are composed of 4 material layers (Bedrock, Stone, Sand and Water), 4 layers we call feature layers (layer elevation to converge to, water drain/water source). Our UI allows us to draw on these heightmaps to allow for more artistic liberty of the the terrain, and a choice of 6 physical approximations to choose from to modify the terrain over time (Thermal erosion, hydraulic erosion using shallow water simulation, rain, particle based wind with sediment transport, sandstorm, cimentation",
+    "tools": "C++ ; OpenGl ; R&D ",
+    "link-titles":[
+      "Itch",
+      "Github"
+    ],
+    "links": [
+      "https://thedrewman.itch.io/crashlands",
+      "https://github.com/Sloth-King/ImagineJam24"
+    ],
+    "images": [
+      "assets/project-details/crashlands/thumbnail.jpg",
+      "assets/project-details/crashlands/chillin.jpg",
+      "assets/project-details/crashlands/fight.jpg"
+    ]
+  },
+
+  "project11": {
+    "title": "MAIge Academy VR",
+    "subtitle": "A Godot VR game",
+    "video": "https://youtu.be/f_jdDeA5JNg",
+    "description": "Delve into a magical experience in your first day at MAIge Academy VR. Where you are taught many a spells with multiple casting techniques in order to solve various puzzles. This video game was developped in a group of 4, with a major focus on innovative use of the VR medium, as well as strong immersion while avoiding the discomfort that comes with the platform. We proposed multiple casting types (Voice command, drawing on surfaces with shape detection, casting spells using spell orbs) with many spells for each.",
+    "tools": "VR ; Godot",
+    "link-titles":[
+      "Github"
+    ],
+    "links": [
+      "https://github.com/RTheoGH/Projet_VR"
+    ],
+    "images": [
+      "assets/project-details/maige-vr/image_cave.png",
+      "assets/project-details/maige-vr/image_menu.png",
+      "assets/project-details/maige-vr/image_start_2.png",
+      "assets/project-details/maige-vr/image_stuff.png",
+      "assets/project-details/maige-vr/image_table.png",
+      "assets/project-details/maige-vr/image_maxwell.png"
+    ]
+  },
+
+  "project12": {
+    "title": "Univ'hérbe cité",
+    "subtitle": "Godot 3D video game",
+    "video": "assets/project/project-univ.png",
+    "description": " A serious game that has the player explore a fictional scenario all while learning about the interesting plants that grow on our university campus. There is a bonus for new students as it allows them to explore a somewhat accurate model of the university. This project was done in a group of 4, and aims to merge the gameplay and learning loops, creating puzzles that require you to learn about plants to be solvable.",
+    "tools": "Godot",
+    "link-titles":[
+      "Itch",
+      "Github"
+    ],
+    "links": [
+      "https://azouuuu.itch.io/univherbcite",
+      "https://github.com/RTheoGH/UnivHerbcite"
+    ],
+    "images": [
+      "assets/project-details/univ/forest.png",
+      "assets/project-details/univ/map.png",
+      "assets/project-details/univ/pause.png",
+      "assets/project-details/univ/more_forest.png",
+      "assets/project/project-univ.png"
+    ]
+  },
+
+  "project13": {
+    "title": "Age filter : creation of a neural network",
+    "subtitle": "An AI research project",
+    "video": "https://youtu.be/U59CjBUVuz8",
+    "description": "This project was centered around researching neural networks and apllying what we could find to create an aging filter. It involved implementing VAEs which we thoroughly pushed through trial and error to find our most convincing results, creating an adverserial network (GAN) using our VAE as the basis, and then researching powerful GANs, in our case StyleGAN, and fine tuning the model to more accurately work on our own databases.",
+    "tools": "Python ; Tensorflow ; R&D",
+    "link-titles":[
+      "Github"
+    ],  
+    "links": [
+      "https://github.com/jjparrad/face_filters"
     ],
     "images": [
       "assets/project-details/crashlands/thumbnail.jpg",
