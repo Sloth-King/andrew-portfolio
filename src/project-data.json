@@ -202,18 +202,22 @@
   "project10": {
     "title": "Approximation of physical processes for the artistic modeling of terrains",
     "subtitle": "3D R&D project",
-    "video": "assets/project/project-physics.png",
+    "video": "https://youtu.be/hv0A5-2PFLw",
     "description": "A two person university project, the idea was to choose a 3D topic, do some research and implementing our findings using C++ and OpenGL, in other words this was a relatively free R&D project. As both of us are heavily passionate about video games and terrain generations and simulations, a real time approximation of physical processes of a terrain was one we really wanted to do. Our terrains are composed of 4 material layers (Bedrock, Stone, Sand and Water), 4 layers we call feature layers (layer elevation to converge to, water drain/water source). Our UI allows us to draw on these heightmaps to allow for more artistic liberty of the the terrain, and a choice of 6 physical approximations to choose from to modify the terrain over time (Thermal erosion, hydraulic erosion using shallow water simulation, rain, particle based wind with sediment transport, sandstorm, cimentation",
     "tools": "C++ ; OpenGl ; R&D ",
     "link-titles":[
-      "Itch",
       "Github"
     ],
     "links": [
-      "https://thedrewman.itch.io/crashlands",
-      "https://github.com/Sloth-King/ImagineJam24"
+      "https://github.com/binaryHips/Projet3D"
     ],
     "images": [
+      "assets/project-details/physics/ui.png",
+      "assets/project-details/physics/smile.png",
+      "assets/project-details/physics/drain.png",
+      "assets/project-details/physics/tectonics",
+      "assets/project-details/physics/water",
+      "assets/project-details/physics/watersand",
       "assets/project/project-physics.png"
     ]
   },
@@ -276,9 +280,7 @@
       "https://github.com/jjparrad/face_filters"
     ],
     "images": [
-      "assets/project-details/crashlands/thumbnail.jpg",
-      "assets/project-details/crashlands/chillin.jpg",
-      "assets/project-details/crashlands/fight.jpg"
+
     ]
   }
 
