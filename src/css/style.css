@@ -378,6 +378,20 @@ body {
   flex: 1 1 45%; 
 }
 
+.project-video {
+  width : 30%;
+  height: 250px;
+  margin: 2rem auto;
+  display: block;
+}
+
+.work-description {
+  margin: 2rem auto;
+  padding: 1rem;
+  font-size: 1.2rem;
+  line-height: 1.6;
+} 
+
 .project-details {
   padding-top: 50px;
   padding-bottom: 50px;
