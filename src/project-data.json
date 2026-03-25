@@ -16,10 +16,15 @@
       "https://www.instagram.com/cots_game/"
     ],
     "images": [
-        "assets/project-details/cots/bigbattle.webp",
-        "assets/project-details/cots/cards.webp",
-        "assets/project-details/cots/choices.webp",
-        "assets/project-details/cots/strategy.webp"
+        "assets/project-details/cots/Booster_opening_steam",
+        "assets/project-details/cots/buy_steam.png",
+        "assets/project-details/cots/settings_steam.png",
+        "assets/project-details/cots/shop_steam.png",
+        "assets/project-details/cots/combat_steam.png",
+        "assets/project-details/cots/night_card_steam.png",
+        "assets/project-details/cots/night_coop.png",
+        "assets/project-details/cots/selection_steam.png",
+        "assets/project-details/cots/zoom_coop.png"
     ]
   },
 
