@@ -282,6 +282,23 @@
     "images": [
 
     ]
+  },
+
+  "job1": {
+    "title": "Age filter : creation of a neural network",
+    "subtitle": "An AI research project",
+    "video": "https://youtu.be/U59CjBUVuz8",
+    "description": "test",
+    "tools": "Python",
+    "link-titles":[
+      "Official Website",
+      "Company github"
+    ],  
+    "links": [
+      ""
+    ],
+    "images": [
+    ]
   }
 
 }
