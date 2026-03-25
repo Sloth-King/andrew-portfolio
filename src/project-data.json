@@ -285,17 +285,18 @@
   },
 
   "job1": {
-    "title": "Age filter : creation of a neural network",
-    "subtitle": "An AI research project",
+    "title": "Tools & Pipeline Developper Apprenticeship",
+    "subtitle": "Illogic Studios",
     "video": "https://youtu.be/U59CjBUVuz8",
-    "description": "test",
+    "description": "The apprenticeship during the final year of my masters degree (Sept 2025 - Aug 2026)\n. My main task was to implement, fix, and refactor tools to aid artists, or the production team.\n This meant quick, smaller scale and varied tasks, it taught me how to quickly adapt to new APIs, languages and ways of thinking having worked on many softwares (Houdini, Prism, Deadline, Nuke, Maya, etc.) for many different tasks (.rat file manager, distant machine render, auto-publishing tools, auto Slap tools, etc.). As the company was growing, a need for a more robust developper pipeline was important, and aiding in its implementation also became an important part of my tasks. I was tasked with researching practices and discussing them, implementing gits, renewing them, publishing them as open source, cleaning code and documentation, as well as adopting coding conventions (Domain Driven Development, commit naming conventions, etc.)",
     "tools": "Python",
     "link-titles":[
       "Official Website",
       "Company github"
     ],  
     "links": [
-      ""
+      "https://www.illogicstudios.com/",
+      "https://github.com/Illogic-Studios"
     ],
     "images": [
     ]
