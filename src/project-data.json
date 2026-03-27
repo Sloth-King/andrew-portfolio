@@ -16,7 +16,7 @@
       "https://www.instagram.com/cots_game/"
     ],
     "images": [
-        "assets/project-details/cots/Booster_opening_steam",
+        "assets/project-details/cots/Booster_opening_steam.png",
         "assets/project-details/cots/buy_steam.png",
         "assets/project-details/cots/settings_steam.png",
         "assets/project-details/cots/shop_steam.png",
@@ -220,9 +220,9 @@
       "assets/project-details/physics/ui.png",
       "assets/project-details/physics/smile.png",
       "assets/project-details/physics/drain.png",
-      "assets/project-details/physics/tectonics",
-      "assets/project-details/physics/water",
-      "assets/project-details/physics/watersand",
+      "assets/project-details/physics/tectonics.png",
+      "assets/project-details/physics/water.png",
+      "assets/project-details/physics/watersand.png",
       "assets/project/project-physics.png"
     ]
   },
