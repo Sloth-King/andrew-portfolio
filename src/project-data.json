@@ -231,7 +231,7 @@
     "title": "MAIge Academy VR",
     "subtitle": "A Godot VR game",
     "video": "https://youtu.be/f_jdDeA5JNg",
-    "description": "Delve into a magical experience in your first day at MAIge Academy VR. Where you are taught many a spells with multiple casting techniques in order to solve various puzzles. This video game was developped in a group of 4, with a major focus on innovative use of the VR medium, as well as strong immersion while avoiding the discomfort that comes with the platform. We proposed multiple casting types (Voice command, drawing on surfaces with shape detection, casting spells using spell orbs) with many spells for each.",
+    "description": "Delve into a magical experience in your first day at MAIge Academy VR. Where you are taught many a spells with multiple casting techniques in order to solve various puzzles. This video game was developed in a group of 4, with a major focus on innovative use of the VR medium, as well as strong immersion while avoiding the discomfort that comes with the platform. We proposed multiple casting types (Voice command, drawing on surfaces with shape detection, casting spells using spell orbs) with many spells for each.",
     "tools": "VR ; Godot",
     "link-titles":[
       "Github"
@@ -290,10 +290,10 @@
   },
 
   "job1": {
-    "title": "Tools & Pipeline Developper Apprenticeship",
+    "title": "Tools & Pipeline Developer Apprenticeship",
     "subtitle": "Illogic Studios",
     "video": "assets/illogic_logo.jpg",
-    "description": "The apprenticeship during the final year of my masters degree (Sept 2025 - Aug 2026)\n. My main task was to implement, fix, and refactor tools to aid artists, or the production team.\n This meant quick, smaller scale and varied tasks, it taught me how to quickly adapt to new APIs, languages and ways of thinking having worked on many softwares (Houdini, Prism, Deadline, Nuke, Maya, etc.) for many different tasks (.rat file manager, distant machine render, auto-publishing tools, auto Slap tools, etc.). As the company was growing, a need for a more robust developper pipeline was important, and aiding in its implementation also became an important part of my tasks. I was tasked with researching practices and discussing them, implementing gits, renewing them, publishing them as open source, cleaning code and documentation, as well as adopting coding conventions (Domain Driven Development, commit naming conventions, etc.)",
+    "description": "The apprenticeship during the final year of my masters degree (Sept 2025 - Aug 2026)\n. My main task was to implement, fix, and refactor tools to aid artists, or the production team.\n This meant quick, smaller scale and varied tasks, it taught me how to quickly adapt to new APIs, languages and ways of thinking having worked on many softwares (Houdini, Prism, Deadline, Nuke, Maya, etc.) for many different tasks (.rat file manager, distant machine render, auto-publishing tools, auto Slap tools, etc.). As the company was growing, a need for a more robust developer pipeline was important, and aiding in its implementation also became an important part of my tasks. I was tasked with researching practices and discussing them, implementing gits, renewing them, publishing them as open source, cleaning code and documentation, as well as adopting coding conventions (Domain Driven Development, commit naming conventions, etc.)",
     "tools": "Python",
     "link-titles":[
       "Official Website",
